@@ -46,7 +46,7 @@ const Navbar = () => {
             <Image src = "/AS.png" alt= "logo" width ={40} height = {40}/>
         </Link>
 
-        <ul className = "hidden h-full gap-12 lg:flex flex-row items-center" >
+        <ul className = "h-full gap-12 flex flex-row items-center" >
         {NAV_LINKS.map((link) => {
           if (link.key === 'linkedin') {
             return (

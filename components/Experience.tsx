@@ -6,22 +6,21 @@ const Experience = () => {
       <h1 className = "bold-52 lg: bold-88 text-white sm:text-center justify-center animate-fadeInTop">Prior Experience</h1>
     </div>
     <div className="space-y-5 mt-6 animate-fadeInLeft"> 
+          <h2 className = "bold-32 lg: bold-52 text-white ">Institute for Risk Management and Insurance Innovation</h2>
+          <div className ="text-bubble text-shadow">
+            <p className = "bold-18 text-blue-800">Research Assistant</p>
+            <p className = "regular-16 text-blue-800 mt-0">September 2024-Present</p>
+             <p className = "regular-16 text-blue-800 mt-3 w-full">
+               At IRMII, I am analyzing cybersecurity datasets to rank the risks of using different software vendors based on their vulnerability data. I have been working on building a graph database to connect different vulnerability datasets to the MITRE Att&ck Framework.
+              </p>
+          </div>
           <h2 className = "bold-32 lg: bold-52 text-white ">Alpha Kappa Psi</h2>
           <div className ="text-bubble text-shadow">
             <h1 className = "bold-18 text-blue-800">Operations Committee Chair</h1>
             <p className = "regular-16 text-blue-800 mt-0">September 2024-Present</p>
             <p className = "regular-16 text-blue-800 mt-3 w-full">
-            Leading the planning and execution of chapter events while identifying and streamlining operational efficiencies. Optimizing resource allocation working with a 3K+ budget to execute events.
+            At AK Psi, I am leading the planning and execution of chapter events while identifying and streamlining operational efficiencies. On the committee, we are working on optimizing resource allocation and the recruitment process while working with a 10K+ budget.
             </p>
-          </div>
-
-          <h2 className = "bold-32 lg: bold-52 text-white ">AI @ UNC</h2>
-          <div className ="text-bubble text-shadow">
-            <p className = "bold-18 text-blue-800">General Team</p>
-            <p className = "regular-16 text-blue-800 mt-0">September 2024-Present</p>
-             <p className = "regular-16 text-blue-800 mt-3 w-full">
-              Analyzing and reviewing literature while gathering relevant datasets (historical inflation, unemployment rate, etc.) to aid Humanity Unleashed in developing an economics transformer to advise policymakers and the public.
-              </p>
           </div>
             
           <h2 className = "bold-32 lg: bold-52 text-white ">Indiana University—Bloomington</h2>
